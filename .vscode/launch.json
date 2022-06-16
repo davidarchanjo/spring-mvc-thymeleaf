@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "spring-mvc-thymeleaf",
+            "request": "launch",
+            "mainClass": "io.davidarchanjo.SpringMvcThymeleafApplication",
+            "projectName": "spring-mvc-thymeleaf"
+        }
+    ]
+}
